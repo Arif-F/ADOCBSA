@@ -10,3 +10,5 @@ include library
 3. Servo
 4. Ultrasonic 
 
+For those using the VS Code Platform IO, the program files are in the folder (src) with the extension main.cpp and for Arduino, just copy the code to the Arduino program.
+
