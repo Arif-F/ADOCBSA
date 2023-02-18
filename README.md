@@ -1,5 +1,5 @@
 # ADOCBSA
-Automatic Door Open and Close BS Arduino/Pintu Otomatis Buka dan Tutup BS Arduino
+Automatic Door Open and Close BS Arduino/Pintu Otomatis Buka dan Tutup BS Arduino i made a program using Platform IO in VS Code
 
 how the tool works: if the distance and temperature are in accordance with what has been determined, the door will open automatically for 3 minutes and will close again
 
